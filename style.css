@@ -1,6 +1,23 @@
 .one {
     background-color: orange;
+    text-align: center;
+
 }
-body {
+.two  {
+    background-color: cyan;
+    text-align: center;
+}
+.three {
+    background-color: darkolivegreen;
+    text-align: center;
+}
+.first {
     background-color: aquamarine;
+}
+.second {
+    background-color: bisque;
+}
+.third {
+    background-color: gold;
+    
 }
